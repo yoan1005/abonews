@@ -1,0 +1,23 @@
+{
+    "name": "yoan1005/abonews",
+    "description": "Module d'abonement / désabonnement et envoi de newsletter",
+    "authors": [
+        {
+            "name": "Yoan Fournier",
+            "email": "fournier.yoan10@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Yoan1005\\Abonews\\AbonewsServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Yoan1005\\Abonews\\": "src/"
+        }
+    }
+}
