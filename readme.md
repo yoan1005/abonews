@@ -1,6 +1,6 @@
 # Abonews
 
-Une interface simple et flexible de gestion CRUD des modèles pour Laravel.
+Plugin permettant la gestion d'abonnée à une newsletter.
 
 ## Installation automatically (not working)
 
@@ -48,7 +48,7 @@ php artisan vendor:publish --provider="Yoan1005\Abonews\AbonewsServiceProvider"
 
 ## Todo
 
- 
+
 ## Change log
 
 Please see the [changelog](changelog.md) for more information on what has changed recently.
